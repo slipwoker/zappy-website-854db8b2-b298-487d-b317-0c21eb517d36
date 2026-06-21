@@ -1,0 +1,82 @@
+# DMaster — Generative Engine Optimization Map
+
+> בנה לי אתר אינטרנט לשיווק העסק
+
+---
+
+## Pages
+
+### בית
+https://dmaster-854db8b2.zappy5.app
+DMaster בונה לך אתר אינטרנט שמוכר בזמן שאתה ישן. משווקים את העסק שלך למכירה, פותחים חשבון בנק לעסק ומתחילים להרוויח בקלות. לחץ עכשיו להצלחה דיגיטלית!
+
+### שירותים
+https://dmaster-854db8b2.zappy5.app/services
+מאתרים מוכנים למכירה ועד פתיחת חשבון בנק לעסק LLC – אצלנו תקבל חבילת שיווק מנצחת. גלה איך DMaster מניע עסקים בקלות ומביא תוצאות אמיתיות עוד היום!
+
+### אודות
+https://dmaster-854db8b2.zappy5.app/about
+DMaster לא סתם בונה אתרים – אנחנו מנוע הצמיחה לעסק שלך. עם ניסיון בשיווק, מכירת עסקים ופתרונות חשבון בנק לעסק, אנחנו כאן כדי להפוך אותך למוביל שוק. בוא נדבר!
+
+### צור קשר
+https://dmaster-854db8b2.zappy5.app/contact
+מוכן למכור את העסק או לפתוח חשבון בנק ל-LLC? צור קשר עם DMaster עכשיו וקבל ייעוץ חינם. אנחנו הופכים רעיונות למציאות – תן לנו להוביל אותך קדימה!
+
+### תודה רבה - פנייתך התקבלה
+https://dmaster-854db8b2.zappy5.app/thank-you
+תודה שפנית אלינו. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם האפשרי בנוגע לעסקים למכירה או שירותים עסקיים אחרים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://dmaster-854db8b2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://dmaster-854db8b2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://dmaster-854db8b2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://dmaster-854db8b2.zappy5.app/contact
+- Endpoint: https://dmaster-854db8b2.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About DMaster
+בנה לי אתר אינטרנט לשיווק העסק
+
+## Target Audience
+- בעלי עסקים קטנים
+- יזמים בתחילת דרכם
+- משווקים עצמאיים
+
+## Industry
+Business
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://dmaster-854db8b2.zappy5.app/sitemap.xml
+- Robots: https://dmaster-854db8b2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://dmaster-854db8b2.zappy5.app/llms-full.txt
