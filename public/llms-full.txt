@@ -2,13 +2,13 @@
 
 בנה לי אתר אינטרנט לשיווק העסק
 
-Source: https://dmaster-854db8b2.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הפוך את העסק שלך למכונה משווקת — DMaster
 
-URL: https://dmaster-854db8b2.zappy5.app
+URL: https://example.com
 Description: DMaster בונה לך אתר אינטרנט שמוכר בזמן שאתה ישן. משווקים את העסק שלך למכירה, פותחים חשבון בנק לעסק ומתחילים להרוויח בקלות. לחץ עכשיו להצלחה דיגיטלית!
 
 הפוך את העסק שלך למכונה משווקת — DMaster
@@ -403,7 +403,7 @@ Description: DMaster בונה לך אתר אינטרנט שמוכר בזמן ש�
 
 ## השירותים שיהפכו רעיון לאימפריה — DMaster
 
-URL: https://dmaster-854db8b2.zappy5.app/services
+URL: https://example.com/services
 Description: מאתרים מוכנים למכירה ועד פתיחת חשבון בנק לעסק LLC – אצלנו תקבל חבילת שיווק מנצחת. גלה איך DMaster מניע עסקים בקלות ומביא תוצאות אמיתיות עוד היום!
 
 השירותים שיהפכו רעיון לאימפריה — DMaster
@@ -880,7 +880,7 @@ Description: מאתרים מוכנים למכירה ועד פתיחת חשבון
 
 ## הכירו את המוח שמאחורי ההצלחה שלך — DMaster
 
-URL: https://dmaster-854db8b2.zappy5.app/about
+URL: https://example.com/about
 Description: DMaster לא סתם בונה אתרים – אנחנו מנוע הצמיחה לעסק שלך. עם ניסיון בשיווק, מכירת עסקים ופתרונות חשבון בנק לעסק, אנחנו כאן כדי להפוך אותך למוביל שוק. בוא נדבר!
 
 הכירו את המוח שמאחורי ההצלחה שלך — DMaster
@@ -1293,7 +1293,7 @@ DMaster מביאים איתם שילוב נדיר של ראייה אסטרטגי
 
 ## קפוץ למים העסקיים עוד היום — DMaster
 
-URL: https://dmaster-854db8b2.zappy5.app/contact
+URL: https://example.com/contact
 Description: מוכן למכור את העסק או לפתוח חשבון בנק ל-LLC? צור קשר עם DMaster עכשיו וקבל ייעוץ חינם. אנחנו הופכים רעיונות למציאות – תן לנו להוביל אותך קדימה!
 
 קפוץ למים העסקיים עוד היום — DMaster
@@ -1704,7 +1704,7 @@ DMaster היא לא רק חברה לבניית אתרים — אנחנו שות�
 
 ## מדיניות פרטיות
 
-URL: https://dmaster-854db8b2.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1968,7 +1968,7 @@ DMaster ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי
 
 ## הצהרת נגישות
 
-URL: https://dmaster-854db8b2.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2241,7 +2241,7 @@ DMaster מחויבת להנגיש את השירותים לכלל הציבור. �
 
 ## תנאי שימוש
 
-URL: https://dmaster-854db8b2.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2533,7 +2533,7 @@ DMaster מספקת Business דרך האתר. השירותים כפופים לת�
 
 ## תודה רבה - פנייתך התקבלה
 
-URL: https://dmaster-854db8b2.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית אלינו. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם האפשרי בנוגע לעסקים למכירה או שירותים עסקיים אחרים.
 
 תודה רבה - פנייתך התקבלה
